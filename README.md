@@ -6,72 +6,72 @@ This project analyzes online food delivery data to uncover insights into custome
 
 ### Objectives
 
-Analyze order patterns and delivery performance.
+- Analyze order patterns and delivery performance.
 
-Evaluate restaurant and cuisine performance.
+- Evaluate restaurant and cuisine performance.
 
-Monitor customer and rider ratings.
+- Monitor customer and rider ratings.
 
-Identify revenue and order trends.
+- Identify revenue and order trends.
 
-Track order status distribution.
+- Track order status distribution.
 
 ### Tools & Technologies
 
-Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
-Power BI
+- Power BI
 
-DAX
+- DAX
 
-Data Cleaning & Preprocessing
+- Data Cleaning & Preprocessing
 
-Data Visualization
+- Data Visualization
 
 ### Dashboard Features
 
 
-Total Orders and Total Revenue KPIs
+- Total Orders and Total Revenue KPIs
 
-Average Order Amount by Cuisine Type
+- Average Order Amount by Cuisine Type
 
-Order Status Analysis
+- Order Status Analysis
 
-Orders by Distance Category
+- Orders by Distance Category
 
-Customer Rating vs Rider Rating Comparison
+- Customer Rating vs Rider Rating Comparison
 
-Top Restaurants by Order Volume
+- Top Restaurants by Order Volume
 
-Interactive Slicers and Filters
+- Interactive Slicers and Filters
 
 ### Key Insights
 
-Long-distance deliveries generated the highest order volume.
+- Long-distance deliveries generated the highest order volume.
 
-Pizza Palace recorded the highest number of orders.
+- Pizza Palace recorded the highest number of orders.
 
-Rider ratings were consistently higher than customer ratings.
+- Rider ratings were consistently higher than customer ratings.
 
-Customer demand was distributed across multiple cuisine types.
+- Customer demand was distributed across multiple cuisine types.
 
-Order status analysis highlighted opportunities to improve delivery efficiency.
+- Order status analysis highlighted opportunities to improve delivery efficiency.
 
 ### Skills Demonstrated
 
-Data Cleaning
+- Data Cleaning
 
-Feature Engineering
+- Feature Engineering
 
-Exploratory Data Analysis (EDA)
+- Exploratory Data Analysis (EDA)
 
-Dashboard Development
+- Dashboard Development
 
-KPI Design
+- KPI Design
 
-Business Insight Generation
+- Business Insight Generation
 
 Author
 
 Srujan Nyavanandi
-Data Analyst | Python | Power BI | Data Visualization
+ Data Analyst | Python | Power BI | Data Visualization
