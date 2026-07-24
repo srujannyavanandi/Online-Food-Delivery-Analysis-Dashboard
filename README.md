@@ -4,6 +4,8 @@
 
 This project analyzes online food delivery data to uncover insights into customer behavior, restaurant performance, delivery operations, and revenue trends. Using Python and Power BI, the data was cleaned, transformed, and visualized through an interactive dashboard that supports data-driven decision-making.
 
+---
+
 ### Objectives
 
 - Analyze order patterns and delivery performance.
@@ -15,6 +17,8 @@ This project analyzes online food delivery data to uncover insights into custome
 - Identify revenue and order trends.
 
 - Track order status distribution.
+
+---
 
 ### Tools & Technologies
 
@@ -28,8 +32,9 @@ This project analyzes online food delivery data to uncover insights into custome
 
 - Data Visualization
 
-### Dashboard Features
+---
 
+### Dashboard Features
 
 - Total Orders and Total Revenue KPIs
 
@@ -45,6 +50,8 @@ This project analyzes online food delivery data to uncover insights into custome
 
 - Interactive Slicers and Filters
 
+---
+
 ### Key Insights
 
 - Long-distance deliveries generated the highest order volume.
@@ -56,6 +63,8 @@ This project analyzes online food delivery data to uncover insights into custome
 - Customer demand was distributed across multiple cuisine types.
 
 - Order status analysis highlighted opportunities to improve delivery efficiency.
+
+---
 
 ### Skills Demonstrated
 
@@ -71,7 +80,9 @@ This project analyzes online food delivery data to uncover insights into custome
 
 - Business Insight Generation
 
-Author
+---
 
-Srujan Nyavanandi
+#### Author
+
+**Srujan Nyavanandi**
  Data Analyst | Python | Power BI | Data Visualization
